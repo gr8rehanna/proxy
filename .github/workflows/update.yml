@@ -7,7 +7,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: '* */2 * * *' # Every 12 minutes
+    - cron: '* */1 * * *' # Every 12 minutes
 
   workflow_dispatch:
 
