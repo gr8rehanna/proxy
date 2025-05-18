@@ -80,7 +80,7 @@ def sort_proxies_by_country():
 def main():
     proxies = remove_duplicates()
     print(f"Processing {len(proxies)} Proxies from all.json")
-    batch_size = 10
+    batch_size = 50
     results = []
     for i in range(0, len(proxies), batch_size):
         batch = proxies[i:i+batch_size]
@@ -89,7 +89,7 @@ def main():
 def check_proxies():
     proxies = remove_duplicates()
     print(f"Processing {len(proxies)} Proxies from all.json")
-    batch_size = 10
+    batch_size = 50
     results = []
     for i in range(0, len(proxies), batch_size):
         batch = proxies[i:i+batch_size]
