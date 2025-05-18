@@ -1,0 +1,49 @@
+## Github Workflow to update to auto run every 1 hour daily.
+## On ubuntu 22 install python3 pip and then run the script start.sh
+name: Update
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '* */59 * * *' # Every 12 minutes
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  update:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run script
+        run: |
+          chmod +x start.sh
+          ./start.sh
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add .
+          git commit -m "Automated update" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
