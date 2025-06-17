@@ -1,67 +1,35 @@
 [
   {
-    "ip": "185.234.65.66",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "type": "socks5",
+    "level": "elite",
+    "country": "BG",
+    "ms": 1235
+  },
+  {
+    "ip": "192.252.210.233",
+    "port": 4145,
+    "type": "socks5",
+    "level": "elite",
+    "country": "US",
+    "ms": 3766
+  },
+  {
+    "ip": "192.252.220.89",
+    "port": 4145,
+    "type": "socks5",
+    "level": "elite",
+    "country": "US",
+    "ms": 2853
+  },
+  {
+    "ip": "139.59.1.14",
     "port": 1080,
     "type": "socks5",
     "level": "elite",
-    "country": "NL",
-    "ms": 1542
-  },
-  {
-    "ip": "208.65.90.3",
-    "port": 4145,
-    "type": "socks5",
-    "level": "elite",
-    "country": "US",
-    "ms": 1587
-  },
-  {
-    "ip": "68.71.254.6",
-    "port": 4145,
-    "type": "socks5",
-    "level": "elite",
-    "country": "US",
-    "ms": 1596
-  },
-  {
-    "ip": "208.65.90.21",
-    "port": 4145,
-    "type": "socks5",
-    "level": "elite",
-    "country": "US",
-    "ms": 2731
-  },
-  {
-    "ip": "98.170.57.241",
-    "port": 4145,
-    "type": "socks5",
-    "level": "elite",
-    "country": "US",
-    "ms": 2792
-  },
-  {
-    "ip": "37.18.73.60",
-    "port": 5566,
-    "type": "socks5",
-    "level": "elite",
-    "country": "RU",
-    "ms": 2820
-  },
-  {
-    "ip": "198.177.254.157",
-    "port": 4145,
-    "type": "socks5",
-    "level": "elite",
-    "country": "US",
-    "ms": 3089
-  },
-  {
-    "ip": "184.170.251.30",
-    "port": 11288,
-    "type": "socks5",
-    "level": "elite",
-    "country": "US",
-    "ms": 3078
+    "country": "IN",
+    "ms": 4165
   },
   {
     "ip": "192.252.216.86",
@@ -69,23 +37,23 @@
     "type": "socks5",
     "level": "elite",
     "country": "US",
-    "ms": 542
+    "ms": 3638
   },
   {
-    "ip": "68.71.240.210",
-    "port": 4145,
+    "ip": "161.35.31.237",
+    "port": 1080,
     "type": "socks5",
     "level": "elite",
-    "country": "US",
-    "ms": 846
+    "country": "DE",
+    "ms": 6399
   },
   {
-    "ip": "98.152.200.61",
-    "port": 8081,
+    "ip": "95.211.19.96",
+    "port": 8001,
     "type": "socks5",
     "level": "elite",
-    "country": "US",
-    "ms": 3743
+    "country": "NL",
+    "ms": 6926
   },
   {
     "ip": "72.195.101.99",
@@ -93,39 +61,15 @@
     "type": "socks5",
     "level": "elite",
     "country": "US",
-    "ms": 4795
+    "ms": 2884
   },
   {
-    "ip": "92.222.35.228",
-    "port": 1080,
-    "type": "socks5",
-    "level": "elite",
-    "country": "FR",
-    "ms": 4927
-  },
-  {
-    "ip": "205.209.113.242",
-    "port": 1080,
-    "type": "socks5",
-    "level": "elite",
-    "country": "US",
-    "ms": 4447
-  },
-  {
-    "ip": "192.252.214.17",
+    "ip": "208.65.90.3",
     "port": 4145,
     "type": "socks5",
     "level": "elite",
     "country": "US",
-    "ms": 2809
-  },
-  {
-    "ip": "72.195.34.41",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1889
+    "ms": 5190
   },
   {
     "ip": "47.237.70.144",
@@ -133,7 +77,103 @@
     "type": "socks5",
     "level": "elite",
     "country": "SG",
-    "ms": 7133
+    "ms": 9347
+  },
+  {
+    "ip": "192.241.156.17",
+    "port": 1080,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 5874
+  },
+  {
+    "ip": "205.209.113.242",
+    "port": 1080,
+    "type": "socks5",
+    "level": "elite",
+    "country": "US",
+    "ms": 9811
+  },
+  {
+    "ip": "184.170.251.30",
+    "port": 11288,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 3844
+  },
+  {
+    "ip": "216.68.128.121",
+    "port": 4145,
+    "type": "socks5",
+    "level": "elite",
+    "country": "US",
+    "ms": 3458
+  },
+  {
+    "ip": "57.129.81.201",
+    "port": 1080,
+    "type": "socks5",
+    "level": "elite",
+    "country": "DE",
+    "ms": 1261
+  },
+  {
+    "ip": "68.71.242.118",
+    "port": 4145,
+    "type": "socks5",
+    "level": "elite",
+    "country": "US",
+    "ms": 2324
+  },
+  {
+    "ip": "82.223.165.28",
+    "port": 8352,
+    "type": "socks5",
+    "level": "elite",
+    "country": "ES",
+    "ms": 10828
+  },
+  {
+    "ip": "8.217.124.178",
+    "port": 49440,
+    "type": "socks5",
+    "level": "elite",
+    "country": "HK",
+    "ms": 4779
+  },
+  {
+    "ip": "92.222.35.228",
+    "port": 1080,
+    "type": "socks5",
+    "level": "elite",
+    "country": "FR",
+    "ms": 11510
+  },
+  {
+    "ip": "98.181.137.83",
+    "port": 4145,
+    "type": "socks5",
+    "level": "elite",
+    "country": "US",
+    "ms": 2171
+  },
+  {
+    "ip": "212.237.125.216",
+    "port": 6969,
+    "type": "socks5",
+    "level": "elite",
+    "country": "IQ",
+    "ms": 12360
+  },
+  {
+    "ip": "192.111.129.150",
+    "port": 4145,
+    "type": "socks5",
+    "level": "elite",
+    "country": "US",
+    "ms": 2005
   },
   {
     "ip": "72.195.114.184",
@@ -141,47 +181,47 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 5931
+    "ms": 896
   },
   {
-    "ip": "98.181.137.80",
-    "port": 4145,
-    "type": "socks5",
-    "level": "elite",
-    "country": "US",
-    "ms": 10715
-  },
-  {
-    "ip": "192.241.156.17",
+    "ip": "161.35.70.249",
     "port": 1080,
     "type": "socks5",
     "level": "elite",
-    "country": "US",
-    "ms": 8660
+    "country": "DE",
+    "ms": 2694
   },
   {
-    "ip": "98.175.31.195",
+    "ip": "72.195.34.41",
     "port": 4145,
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 3542
+    "ms": 655
   },
   {
-    "ip": "98.175.31.222",
+    "ip": "98.170.57.241",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 5355
+  },
+  {
+    "ip": "185.234.65.66",
+    "port": 1080,
+    "type": "socks5",
+    "level": "elite",
+    "country": "NL",
+    "ms": 12850
+  },
+  {
+    "ip": "68.71.254.6",
     "port": 4145,
     "type": "socks5",
     "level": "elite",
     "country": "US",
-    "ms": 8484
-  },
-  {
-    "ip": "98.181.137.83",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1593
+    "ms": 2296
   },
   {
     "ip": "72.195.34.59",
@@ -189,31 +229,15 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 5742
+    "ms": 835
   },
   {
-    "ip": "192.111.130.2",
+    "ip": "72.205.0.67",
     "port": 4145,
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 1320
-  },
-  {
-    "ip": "103.106.229.24",
-    "port": 1080,
-    "type": "socks5",
-    "level": "elite",
-    "country": "SG",
-    "ms": 13382
-  },
-  {
-    "ip": "72.37.216.68",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 520
+    "ms": 605
   },
   {
     "ip": "72.195.34.60",
@@ -221,15 +245,7 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 5249
-  },
-  {
-    "ip": "139.59.68.143",
-    "port": 48722,
-    "type": "socks5",
-    "level": "elite",
-    "country": "IN",
-    "ms": 15337
+    "ms": 1188
   },
   {
     "ip": "72.211.46.99",
@@ -237,23 +253,23 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 6201
+    "ms": 1506
   },
   {
-    "ip": "72.205.0.93",
+    "ip": "208.65.90.21",
     "port": 4145,
-    "type": "socks5",
-    "level": "elite",
+    "type": "socks4",
+    "level": "transparent",
     "country": "US",
-    "ms": 16965
+    "ms": 1956
   },
   {
-    "ip": "103.84.101.10",
-    "port": 1080,
+    "ip": "121.169.46.116",
+    "port": 1090,
     "type": "socks5",
     "level": "elite",
-    "country": "MM",
-    "ms": 18655
+    "country": "KR",
+    "ms": 3791
   },
   {
     "ip": "98.188.47.150",
@@ -261,55 +277,55 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 6818
+    "ms": 2380
   },
   {
-    "ip": "98.178.72.21",
-    "port": 10919,
-    "type": "socks4",
-    "level": "transparent",
+    "ip": "70.166.167.55",
+    "port": 57745,
+    "type": "socks5",
+    "level": "elite",
     "country": "US",
-    "ms": 5857
+    "ms": 11288
   },
   {
-    "ip": "72.205.0.67",
+    "ip": "68.71.252.38",
     "port": 4145,
     "type": "socks5",
     "level": "elite",
     "country": "US",
-    "ms": 16449
+    "ms": 6103
   },
   {
-    "ip": "192.252.216.81",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 8651
-  },
-  {
-    "ip": "192.111.139.162",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 12489
-  },
-  {
-    "ip": "147.45.237.170",
-    "port": 1080,
-    "type": "socks4",
+    "ip": "139.59.68.143",
+    "port": 48722,
+    "type": "socks5",
     "level": "elite",
-    "country": "RU",
-    "ms": 9377
+    "country": "IN",
+    "ms": 7170
   },
   {
-    "ip": "68.71.243.14",
+    "ip": "103.84.101.10",
+    "port": 1080,
+    "type": "socks5",
+    "level": "elite",
+    "country": "MM",
+    "ms": 6562
+  },
+  {
+    "ip": "47.237.100.95",
+    "port": 8888,
+    "type": "socks5",
+    "level": "elite",
+    "country": "SG",
+    "ms": 19244
+  },
+  {
+    "ip": "98.175.31.195",
     "port": 4145,
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 14840
+    "ms": 7340
   },
   {
     "ip": "64.227.131.240",
@@ -317,55 +333,7 @@
     "type": "socks4",
     "level": "transparent",
     "country": "IN",
-    "ms": 24697
-  },
-  {
-    "ip": "51.210.111.216",
-    "port": 62160,
-    "type": "socks4",
-    "level": "elite",
-    "country": "FR",
-    "ms": 19523
-  },
-  {
-    "ip": "199.187.210.54",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 17771
-  },
-  {
-    "ip": "68.71.245.206",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 932
-  },
-  {
-    "ip": "72.214.108.67",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1060
-  },
-  {
-    "ip": "192.111.137.34",
-    "port": 18765,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1162
-  },
-  {
-    "ip": "192.252.209.158",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1273
+    "ms": 14437
   },
   {
     "ip": "98.190.239.3",
@@ -373,15 +341,31 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 1368
+    "ms": 707
   },
   {
-    "ip": "24.249.199.12",
+    "ip": "192.252.216.81",
     "port": 4145,
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 1414
+    "ms": 866
+  },
+  {
+    "ip": "68.71.243.14",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 1963
+  },
+  {
+    "ip": "98.178.72.21",
+    "port": 10919,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 2240
   },
   {
     "ip": "67.201.35.145",
@@ -389,175 +373,31 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 2080
+    "ms": 2789
   },
   {
-    "ip": "24.249.199.4",
+    "ip": "192.111.130.2",
     "port": 4145,
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 2183
+    "ms": 2964
   },
   {
-    "ip": "70.166.167.55",
-    "port": 57745,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1689
-  },
-  {
-    "ip": "66.42.224.229",
-    "port": 41679,
-    "type": "socks4",
-    "level": "transparent",
-    "country": null,
-    "ms": 2214
-  },
-  {
-    "ip": "134.199.159.23",
-    "port": 1080,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 2333
-  },
-  {
-    "ip": "142.93.251.218",
-    "port": 1080,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 4135
-  },
-  {
-    "ip": "68.71.249.158",
+    "ip": "192.111.139.162",
     "port": 4145,
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 4159
+    "ms": 3053
   },
   {
-    "ip": "98.170.57.231",
+    "ip": "199.187.210.54",
     "port": 4145,
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 1830
-  },
-  {
-    "ip": "98.188.47.132",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 3144
-  },
-  {
-    "ip": "46.34.161.69",
-    "port": 4153,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "IR",
-    "ms": 5379
-  },
-  {
-    "ip": "192.111.137.35",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 2360
-  },
-  {
-    "ip": "192.252.220.92",
-    "port": 17328,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1886
-  },
-  {
-    "ip": "199.102.105.242",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1134
-  },
-  {
-    "ip": "69.61.200.104",
-    "port": 36181,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 6617
-  },
-  {
-    "ip": "72.195.34.42",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 7291
-  },
-  {
-    "ip": "67.201.59.70",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1587
-  },
-  {
-    "ip": "206.220.175.2",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 3470
-  },
-  {
-    "ip": "68.71.251.134",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 587
-  },
-  {
-    "ip": "192.252.210.233",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 542
-  },
-  {
-    "ip": "192.111.139.165",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 529
-  },
-  {
-    "ip": "68.71.252.38",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1648
-  },
-  {
-    "ip": "72.195.114.169",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 10543
+    "ms": 3265
   },
   {
     "ip": "68.1.210.163",
@@ -565,79 +405,63 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 11095
+    "ms": 545
   },
   {
-    "ip": "68.71.247.130",
+    "ip": "192.252.209.158",
     "port": 4145,
     "type": "socks4",
     "level": "transparent",
-    "country": null,
-    "ms": 7225
+    "country": "US",
+    "ms": 3402
   },
   {
-    "ip": "159.65.128.194",
+    "ip": "72.195.34.35",
+    "port": 27360,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 1331
+  },
+  {
+    "ip": "192.111.137.34",
+    "port": 18765,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 3780
+  },
+  {
+    "ip": "68.71.249.158",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 3985
+  },
+  {
+    "ip": "142.93.251.218",
     "port": 1080,
     "type": "socks4",
     "level": "transparent",
-    "country": "SG",
-    "ms": 12669
-  },
-  {
-    "ip": "192.111.137.37",
-    "port": 18762,
-    "type": "socks4",
-    "level": "transparent",
     "country": "US",
-    "ms": 1596
+    "ms": 3288
   },
   {
-    "ip": "34.124.190.108",
-    "port": 8080,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "SG",
-    "ms": 12706
-  },
-  {
-    "ip": "192.252.209.155",
-    "port": 14455,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "CA",
-    "ms": 3049
-  },
-  {
-    "ip": "206.189.57.182",
-    "port": 1080,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "DE",
-    "ms": 13139
-  },
-  {
-    "ip": "192.111.135.18",
-    "port": 18301,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 2756
-  },
-  {
-    "ip": "72.37.217.3",
+    "ip": "24.249.199.4",
     "port": 4145,
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 9508
+    "ms": 3174
   },
   {
-    "ip": "198.8.84.3",
+    "ip": "24.249.199.12",
     "port": 4145,
     "type": "socks4",
     "level": "transparent",
-    "country": "CA",
-    "ms": 10224
+    "country": "US",
+    "ms": 2279
   },
   {
     "ip": "68.1.210.189",
@@ -645,7 +469,135 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 15656
+    "ms": 1308
+  },
+  {
+    "ip": "72.214.108.67",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 1189
+  },
+  {
+    "ip": "98.181.137.80",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 1653
+  },
+  {
+    "ip": "72.37.216.68",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 4634
+  },
+  {
+    "ip": "98.188.47.132",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 923
+  },
+  {
+    "ip": "98.170.57.231",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 607
+  },
+  {
+    "ip": "159.65.128.194",
+    "port": 1080,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "SG",
+    "ms": 5051
+  },
+  {
+    "ip": "70.166.167.38",
+    "port": 57728,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 2028
+  },
+  {
+    "ip": "192.111.137.35",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 1866
+  },
+  {
+    "ip": "69.61.200.104",
+    "port": 36181,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 2861
+  },
+  {
+    "ip": "72.37.217.3",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 1559
+  },
+  {
+    "ip": "206.220.175.2",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 1673
+  },
+  {
+    "ip": "68.71.247.130",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": null,
+    "ms": 2214
+  },
+  {
+    "ip": "68.71.251.134",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 865
+  },
+  {
+    "ip": "34.124.190.108",
+    "port": 8080,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "SG",
+    "ms": 7702
+  },
+  {
+    "ip": "134.199.159.23",
+    "port": 1080,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 4584
+  },
+  {
+    "ip": "192.252.220.92",
+    "port": 17328,
+    "type": "socks5",
+    "level": "transparent",
+    "country": "US",
+    "ms": 1126
   },
   {
     "ip": "67.201.33.10",
@@ -653,7 +605,23 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 14348
+    "ms": 3629
+  },
+  {
+    "ip": "198.8.84.3",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "CA",
+    "ms": 2344
+  },
+  {
+    "ip": "68.71.245.206",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 8428
   },
   {
     "ip": "98.191.0.37",
@@ -661,15 +629,79 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 13582
+    "ms": 2529
   },
   {
-    "ip": "70.166.167.38",
-    "port": 57728,
+    "ip": "206.189.57.182",
+    "port": 1080,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "DE",
+    "ms": 9288
+  },
+  {
+    "ip": "66.42.224.229",
+    "port": 41679,
+    "type": "socks4",
+    "level": "transparent",
+    "country": null,
+    "ms": 5843
+  },
+  {
+    "ip": "72.195.114.169",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 9479
+  },
+  {
+    "ip": "199.102.105.242",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 3505
+  },
+  {
+    "ip": "98.170.57.249",
+    "port": 4145,
     "type": "socks5",
     "level": "transparent",
     "country": "US",
-    "ms": 1405
+    "ms": 2651
+  },
+  {
+    "ip": "72.195.34.42",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 6502
+  },
+  {
+    "ip": "67.201.59.70",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 4551
+  },
+  {
+    "ip": "192.111.139.165",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 3994
+  },
+  {
+    "ip": "192.95.33.162",
+    "port": 10974,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "CA",
+    "ms": 14230
   },
   {
     "ip": "51.75.126.150",
@@ -677,103 +709,15 @@
     "type": "socks4",
     "level": "transparent",
     "country": "FR",
-    "ms": 23345
+    "ms": 16395
   },
   {
-    "ip": "98.170.57.249",
-    "port": 4145,
+    "ip": "72.49.49.11",
+    "port": 31034,
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 19545
-  },
-  {
-    "ip": "72.195.34.35",
-    "port": 27360,
-    "type": "socks5",
-    "level": "transparent",
-    "country": "US",
-    "ms": 3514
-  },
-  {
-    "ip": "192.111.130.5",
-    "port": 17002,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "CA",
-    "ms": 13684
-  },
-  {
-    "ip": "192.111.138.29",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 16686
-  },
-  {
-    "ip": "161.35.82.57",
-    "port": 1080,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "NL",
-    "ms": 18135
-  },
-  {
-    "ip": "192.95.33.162",
-    "port": 10974,
-    "type": "socks5",
-    "level": "transparent",
-    "country": "CA",
-    "ms": 18232
-  },
-  {
-    "ip": "68.71.242.118",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 953
-  },
-  {
-    "ip": "216.68.128.121",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1150
-  },
-  {
-    "ip": "199.116.112.6",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1197
-  },
-  {
-    "ip": "198.177.253.13",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1350
-  },
-  {
-    "ip": "208.102.51.6",
-    "port": 58208,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 1794
-  },
-  {
-    "ip": "198.177.254.131",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 2029
+    "ms": 593
   },
   {
     "ip": "199.229.254.129",
@@ -781,47 +725,23 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 2114
+    "ms": 735
   },
   {
-    "ip": "161.35.31.237",
-    "port": 1080,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "DE",
-    "ms": 3295
-  },
-  {
-    "ip": "67.201.58.190",
-    "port": 4145,
+    "ip": "192.111.135.18",
+    "port": 18301,
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 3279
+    "ms": 1200
   },
   {
-    "ip": "198.177.252.24",
-    "port": 4145,
+    "ip": "208.102.51.6",
+    "port": 58208,
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 4259
-  },
-  {
-    "ip": "184.178.172.11",
-    "port": 4145,
-    "type": "socks4",
-    "level": "elite",
-    "country": "US",
-    "ms": 2549
-  },
-  {
-    "ip": "192.252.220.89",
-    "port": 4145,
-    "type": "socks4",
-    "level": "transparent",
-    "country": "US",
-    "ms": 5827
+    "ms": 1626
   },
   {
     "ip": "184.181.178.33",
@@ -829,7 +749,15 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 10088
+    "ms": 1777
+  },
+  {
+    "ip": "103.106.229.24",
+    "port": 1080,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "SG",
+    "ms": 1844
   },
   {
     "ip": "67.201.39.14",
@@ -837,15 +765,15 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 16233
+    "ms": 1904
   },
   {
-    "ip": "91.192.25.158",
+    "ip": "192.111.138.29",
     "port": 4145,
     "type": "socks4",
-    "level": "elite",
-    "country": "IT",
-    "ms": 13987
+    "level": "transparent",
+    "country": "US",
+    "ms": 2183
   },
   {
     "ip": "192.111.135.17",
@@ -853,7 +781,71 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 18098
+    "ms": 2218
+  },
+  {
+    "ip": "198.177.254.157",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 2113
+  },
+  {
+    "ip": "198.177.254.131",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 2449
+  },
+  {
+    "ip": "192.252.215.2",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 1465
+  },
+  {
+    "ip": "68.71.249.153",
+    "port": 48606,
+    "type": "socks4",
+    "level": "transparent",
+    "country": null,
+    "ms": 3272
+  },
+  {
+    "ip": "198.177.252.24",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 2903
+  },
+  {
+    "ip": "192.111.130.5",
+    "port": 17002,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "CA",
+    "ms": 3335
+  },
+  {
+    "ip": "184.178.172.11",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 640
+  },
+  {
+    "ip": "192.252.209.155",
+    "port": 14455,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "CA",
+    "ms": 3574
   },
   {
     "ip": "72.207.109.5",
@@ -861,39 +853,111 @@
     "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 18944
+    "ms": 3637
   },
   {
     "ip": "192.111.139.163",
     "port": 19404,
-    "type": "socks5",
+    "type": "socks4",
     "level": "transparent",
     "country": "US",
-    "ms": 1577
+    "ms": 3727
   },
   {
-    "ip": "68.71.249.153",
-    "port": 48606,
-    "type": "socks5",
-    "level": "transparent",
-    "country": null,
-    "ms": 2596
-  },
-  {
-    "ip": "45.128.135.65",
-    "port": 1080,
+    "ip": "37.18.73.60",
+    "port": 5566,
     "type": "socks4",
-    "level": "elite",
-    "country": "NL",
-    "ms": 6731
+    "level": "transparent",
+    "country": "RU",
+    "ms": 2122
+  },
+  {
+    "ip": "192.252.214.17",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 4359
+  },
+  {
+    "ip": "98.175.31.222",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 3808
   },
   {
     "ip": "74.119.144.60",
     "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 2305
+  },
+  {
+    "ip": "198.177.253.13",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 3720
+  },
+  {
+    "ip": "67.201.58.190",
+    "port": 4145,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 3480
+  },
+  {
+    "ip": "192.158.15.201",
+    "port": 50877,
+    "type": "socks4",
+    "level": "elite",
+    "country": "CA",
+    "ms": 2012
+  },
+  {
+    "ip": "192.111.137.37",
+    "port": 18762,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "US",
+    "ms": 5443
+  },
+  {
+    "ip": "199.116.112.6",
+    "port": 4145,
     "type": "socks5",
     "level": "transparent",
     "country": "US",
-    "ms": 8501
+    "ms": 3518
+  },
+  {
+    "ip": "8.211.195.173",
+    "port": 3128,
+    "type": "socks4",
+    "level": "elite",
+    "country": "GB",
+    "ms": 5665
+  },
+  {
+    "ip": "212.47.243.66",
+    "port": 16379,
+    "type": "socks5",
+    "level": "transparent",
+    "country": "FR",
+    "ms": 13772
+  },
+  {
+    "ip": "77.241.20.215",
+    "port": 55915,
+    "type": "socks4",
+    "level": "elite",
+    "country": "RU",
+    "ms": 1978
   },
   {
     "ip": "47.119.164.33",
@@ -901,7 +965,23 @@
     "type": "socks4",
     "level": "elite",
     "country": "CN",
-    "ms": 3480
+    "ms": 3499
+  },
+  {
+    "ip": "103.154.113.244",
+    "port": 4153,
+    "type": "socks4",
+    "level": "elite",
+    "country": "ID",
+    "ms": 3819
+  },
+  {
+    "ip": "184.178.172.3",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 4337
   },
   {
     "ip": "47.91.89.3",
@@ -909,7 +989,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "DE",
-    "ms": 9907
+    "ms": 7925
   },
   {
     "ip": "149.129.255.179",
@@ -917,7 +997,15 @@
     "type": "socks4",
     "level": "elite",
     "country": "ID",
-    "ms": 4964
+    "ms": 6194
+  },
+  {
+    "ip": "45.61.188.134",
+    "port": 44499,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 11443
   },
   {
     "ip": "8.211.51.115",
@@ -925,31 +1013,47 @@
     "type": "socks4",
     "level": "elite",
     "country": "DE",
-    "ms": 10603
+    "ms": 4286
+  },
+  {
+    "ip": "199.102.107.145",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 899
+  },
+  {
+    "ip": "181.236.221.138",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "CO",
+    "ms": 4462
   },
   {
     "ip": "8.213.128.90",
     "port": 2020,
-    "type": "socks5",
+    "type": "socks4",
     "level": "elite",
     "country": "KR",
-    "ms": 8850
+    "ms": 4624
   },
   {
-    "ip": "45.61.188.134",
-    "port": 44499,
-    "type": "socks5",
-    "level": "elite",
-    "country": "US",
-    "ms": 10220
-  },
-  {
-    "ip": "192.252.214.20",
-    "port": 15864,
+    "ip": "199.102.106.94",
+    "port": 4145,
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 2030
+    "ms": 1135
+  },
+  {
+    "ip": "72.195.34.58",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 5783
   },
   {
     "ip": "174.77.111.198",
@@ -957,15 +1061,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 3027
-  },
-  {
-    "ip": "121.43.109.88",
-    "port": 8008,
-    "type": "socks4",
-    "level": "elite",
-    "country": "CN",
-    "ms": 5717
+    "ms": 1961
   },
   {
     "ip": "8.213.128.6",
@@ -973,7 +1069,23 @@
     "type": "socks4",
     "level": "elite",
     "country": "KR",
-    "ms": 24677
+    "ms": 4641
+  },
+  {
+    "ip": "109.232.106.150",
+    "port": 52435,
+    "type": "socks4",
+    "level": "elite",
+    "country": "RU",
+    "ms": 6984
+  },
+  {
+    "ip": "192.252.214.20",
+    "port": 15864,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 1193
   },
   {
     "ip": "184.178.172.18",
@@ -981,15 +1093,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 816
-  },
-  {
-    "ip": "199.102.104.70",
-    "port": 4145,
-    "type": "socks4",
-    "level": "elite",
-    "country": "US",
-    "ms": 902
+    "ms": 1264
   },
   {
     "ip": "192.252.208.67",
@@ -997,31 +1101,23 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 1325
+    "ms": 1973
   },
   {
-    "ip": "8.220.141.8",
-    "port": 8443,
-    "type": "socks4",
-    "level": "elite",
-    "country": "PH",
-    "ms": 4569
-  },
-  {
-    "ip": "81.16.248.246",
-    "port": 25566,
-    "type": "socks4",
-    "level": "elite",
-    "country": "GE",
-    "ms": 8038
-  },
-  {
-    "ip": "47.90.149.238",
-    "port": 8443,
+    "ip": "199.102.104.70",
+    "port": 4145,
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 8419
+    "ms": 1376
+  },
+  {
+    "ip": "121.43.109.88",
+    "port": 8008,
+    "type": "socks4",
+    "level": "elite",
+    "country": "CN",
+    "ms": 3491
   },
   {
     "ip": "8.212.151.166",
@@ -1029,7 +1125,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "PH",
-    "ms": 10095
+    "ms": 4760
   },
   {
     "ip": "142.54.228.193",
@@ -1037,15 +1133,31 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 10712
+    "ms": 1923
+  },
+  {
+    "ip": "47.90.149.238",
+    "port": 8443,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 6229
+  },
+  {
+    "ip": "8.220.141.8",
+    "port": 8443,
+    "type": "socks4",
+    "level": "elite",
+    "country": "PH",
+    "ms": 3541
   },
   {
     "ip": "142.54.239.1",
     "port": 4145,
-    "type": "socks5",
+    "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 2440
+    "ms": 1998
   },
   {
     "ip": "142.54.232.6",
@@ -1053,23 +1165,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 1964
-  },
-  {
-    "ip": "47.105.122.72",
-    "port": 80,
-    "type": "socks4",
-    "level": "elite",
-    "country": "CN",
-    "ms": 3470
-  },
-  {
-    "ip": "8.213.129.15",
-    "port": 3132,
-    "type": "socks4",
-    "level": "elite",
-    "country": "KR",
-    "ms": 5991
+    "ms": 1158
   },
   {
     "ip": "184.181.217.220",
@@ -1077,7 +1173,15 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 1769
+    "ms": 2884
+  },
+  {
+    "ip": "47.105.122.72",
+    "port": 80,
+    "type": "socks4",
+    "level": "elite",
+    "country": "CN",
+    "ms": 3427
   },
   {
     "ip": "142.54.226.214",
@@ -1085,15 +1189,15 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 1958
+    "ms": 2844
   },
   {
-    "ip": "45.128.135.1",
-    "port": 1080,
+    "ip": "8.213.129.15",
+    "port": 3132,
     "type": "socks4",
     "level": "elite",
-    "country": "NL",
-    "ms": 22082
+    "country": "KR",
+    "ms": 6930
   },
   {
     "ip": "142.54.229.249",
@@ -1101,7 +1205,15 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 390
+    "ms": 892
+  },
+  {
+    "ip": "103.12.246.57",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "IN",
+    "ms": 1367
   },
   {
     "ip": "162.253.68.97",
@@ -1109,23 +1221,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 1554
-  },
-  {
-    "ip": "47.252.11.233",
-    "port": 8080,
-    "type": "socks4",
-    "level": "elite",
-    "country": "US",
-    "ms": 6200
-  },
-  {
-    "ip": "184.170.249.65",
-    "port": 4145,
-    "type": "socks4",
-    "level": "elite",
-    "country": "US",
-    "ms": 17134
+    "ms": 1801
   },
   {
     "ip": "120.25.189.254",
@@ -1133,23 +1229,31 @@
     "type": "socks4",
     "level": "elite",
     "country": "CN",
-    "ms": 4476
+    "ms": 3493
   },
   {
-    "ip": "47.237.107.41",
+    "ip": "47.252.11.233",
     "port": 8080,
     "type": "socks4",
     "level": "elite",
-    "country": "SG",
-    "ms": 4767
+    "country": "US",
+    "ms": 4027
   },
   {
-    "ip": "184.181.217.210",
+    "ip": "184.170.249.65",
     "port": 4145,
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 2691
+    "ms": 5113
+  },
+  {
+    "ip": "46.188.2.42",
+    "port": 5678,
+    "type": "socks4",
+    "level": "elite",
+    "country": "RU",
+    "ms": 3166
   },
   {
     "ip": "192.111.129.145",
@@ -1157,87 +1261,31 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 758
+    "ms": 1188
   },
   {
-    "ip": "8.213.137.155",
-    "port": 20000,
-    "type": "socks4",
-    "level": "elite",
-    "country": "KR",
-    "ms": 24142
-  },
-  {
-    "ip": "198.8.94.170",
+    "ip": "184.181.217.210",
     "port": 4145,
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 1322
+    "ms": 1537
   },
   {
-    "ip": "184.178.172.26",
-    "port": 4145,
-    "type": "socks4",
-    "level": "elite",
-    "country": "US",
-    "ms": 1509
-  },
-  {
-    "ip": "74.119.147.209",
-    "port": 4145,
-    "type": "socks4",
-    "level": "elite",
-    "country": "US",
-    "ms": 1104
-  },
-  {
-    "ip": "196.0.111.194",
-    "port": 48009,
-    "type": "socks4",
-    "level": "elite",
-    "country": "UG",
-    "ms": 2158
-  },
-  {
-    "ip": "198.8.94.174",
-    "port": 39078,
-    "type": "socks4",
-    "level": "elite",
-    "country": "US",
-    "ms": 3246
-  },
-  {
-    "ip": "67.206.213.202",
-    "port": 55555,
-    "type": "socks4",
-    "level": "elite",
-    "country": "PR",
-    "ms": 7736
-  },
-  {
-    "ip": "47.237.2.245",
-    "port": 3128,
+    "ip": "47.237.107.41",
+    "port": 8080,
     "type": "socks4",
     "level": "elite",
     "country": "SG",
-    "ms": 6747
+    "ms": 8413
   },
   {
-    "ip": "184.178.172.14",
-    "port": 4145,
+    "ip": "205.177.85.130",
+    "port": 39593,
     "type": "socks4",
     "level": "elite",
-    "country": "US",
-    "ms": 16506
-  },
-  {
-    "ip": "45.6.101.98",
-    "port": 4153,
-    "type": "socks4",
-    "level": "elite",
-    "country": "BR",
-    "ms": 9109
+    "country": "JP",
+    "ms": 21111
   },
   {
     "ip": "184.178.172.5",
@@ -1245,7 +1293,39 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 18737
+    "ms": 385
+  },
+  {
+    "ip": "184.178.172.26",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 4280
+  },
+  {
+    "ip": "184.178.172.14",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 4973
+  },
+  {
+    "ip": "198.8.94.170",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 1354
+  },
+  {
+    "ip": "198.8.94.174",
+    "port": 39078,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 2206
   },
   {
     "ip": "199.58.184.97",
@@ -1253,15 +1333,23 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 15299
+    "ms": 1415
   },
   {
-    "ip": "47.238.60.156",
-    "port": 9098,
+    "ip": "74.119.147.209",
+    "port": 4145,
     "type": "socks4",
     "level": "elite",
-    "country": "HK",
-    "ms": 4877
+    "country": "US",
+    "ms": 2531
+  },
+  {
+    "ip": "47.237.2.245",
+    "port": 3128,
+    "type": "socks4",
+    "level": "elite",
+    "country": "SG",
+    "ms": 6730
   },
   {
     "ip": "47.252.18.37",
@@ -1269,23 +1357,15 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 5735
+    "ms": 12939
   },
   {
     "ip": "107.152.98.5",
     "port": 4145,
-    "type": "socks5",
-    "level": "elite",
-    "country": "US",
-    "ms": 1709
-  },
-  {
-    "ip": "199.116.114.11",
-    "port": 4145,
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 1410
+    "ms": 1524
   },
   {
     "ip": "174.64.199.82",
@@ -1293,23 +1373,15 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 2007
+    "ms": 1608
   },
   {
-    "ip": "142.54.231.38",
+    "ip": "199.116.114.11",
     "port": 4145,
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 2472
-  },
-  {
-    "ip": "47.91.115.179",
-    "port": 8081,
-    "type": "socks4",
-    "level": "elite",
-    "country": "AE",
-    "ms": 6897
+    "ms": 1561
   },
   {
     "ip": "184.178.172.28",
@@ -1317,7 +1389,39 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 12835
+    "ms": 2128
+  },
+  {
+    "ip": "142.54.231.38",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 1844
+  },
+  {
+    "ip": "31.42.184.144",
+    "port": 57752,
+    "type": "socks4",
+    "level": "elite",
+    "country": "UA",
+    "ms": 6928
+  },
+  {
+    "ip": "8.215.15.163",
+    "port": 8443,
+    "type": "socks4",
+    "level": "elite",
+    "country": "ID",
+    "ms": 8382
+  },
+  {
+    "ip": "47.91.115.179",
+    "port": 8081,
+    "type": "socks4",
+    "level": "elite",
+    "country": "AE",
+    "ms": 10790
   },
   {
     "ip": "142.54.235.9",
@@ -1325,15 +1429,15 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 7618
+    "ms": 2256
   },
   {
     "ip": "8.213.129.20",
     "port": 8282,
-    "type": "socks5",
+    "type": "socks4",
     "level": "elite",
     "country": "KR",
-    "ms": 26923
+    "ms": 4059
   },
   {
     "ip": "8.130.36.245",
@@ -1341,7 +1445,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "CN",
-    "ms": 9069
+    "ms": 5936
   },
   {
     "ip": "187.44.211.118",
@@ -1349,7 +1453,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "BR",
-    "ms": 9307
+    "ms": 23327
   },
   {
     "ip": "174.75.211.222",
@@ -1357,31 +1461,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 1022
-  },
-  {
-    "ip": "47.250.51.110",
-    "port": 9098,
-    "type": "socks4",
-    "level": "elite",
-    "country": "MY",
-    "ms": 6717
-  },
-  {
-    "ip": "183.6.7.103",
-    "port": 4145,
-    "type": "socks4",
-    "level": "elite",
-    "country": "CN",
-    "ms": 10552
-  },
-  {
-    "ip": "8.221.139.222",
-    "port": 8443,
-    "type": "socks4",
-    "level": "elite",
-    "country": "JP",
-    "ms": 11389
+    "ms": 963
   },
   {
     "ip": "103.115.255.225",
@@ -1389,23 +1469,31 @@
     "type": "socks4",
     "level": "elite",
     "country": "BD",
-    "ms": 12838
+    "ms": 4339
   },
   {
-    "ip": "174.64.199.79",
+    "ip": "8.221.139.222",
+    "port": 8443,
+    "type": "socks4",
+    "level": "elite",
+    "country": "JP",
+    "ms": 8110
+  },
+  {
+    "ip": "47.250.51.110",
+    "port": 9098,
+    "type": "socks4",
+    "level": "elite",
+    "country": "MY",
+    "ms": 9953
+  },
+  {
+    "ip": "174.77.111.196",
     "port": 4145,
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 2211
-  },
-  {
-    "ip": "47.122.60.73",
-    "port": 34567,
-    "type": "socks4",
-    "level": "elite",
-    "country": "CN",
-    "ms": 3479
+    "ms": 2698
   },
   {
     "ip": "8.211.194.85",
@@ -1413,15 +1501,39 @@
     "type": "socks4",
     "level": "elite",
     "country": "GB",
-    "ms": 7680
+    "ms": 9544
   },
   {
-    "ip": "47.90.167.27",
-    "port": 9080,
+    "ip": "47.122.60.73",
+    "port": 34567,
+    "type": "socks4",
+    "level": "elite",
+    "country": "CN",
+    "ms": 4118
+  },
+  {
+    "ip": "8.215.3.250",
+    "port": 3128,
+    "type": "socks5",
+    "level": "elite",
+    "country": "ID",
+    "ms": 10163
+  },
+  {
+    "ip": "174.64.199.79",
+    "port": 4145,
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 6344
+    "ms": 1150
+  },
+  {
+    "ip": "103.146.185.173",
+    "port": 1083,
+    "type": "socks4",
+    "level": "elite",
+    "country": "ID",
+    "ms": 3532
   },
   {
     "ip": "156.244.11.6",
@@ -1429,15 +1541,15 @@
     "type": "socks4",
     "level": "elite",
     "country": "SA",
-    "ms": 11723
+    "ms": 5181
   },
   {
     "ip": "174.77.111.197",
     "port": 4145,
-    "type": "socks4",
+    "type": "socks5",
     "level": "elite",
     "country": "US",
-    "ms": 2292
+    "ms": 5313
   },
   {
     "ip": "8.220.205.172",
@@ -1445,47 +1557,15 @@
     "type": "socks4",
     "level": "elite",
     "country": "KR",
-    "ms": 7529
+    "ms": 7729
   },
   {
-    "ip": "49.0.2.243",
-    "port": 5430,
+    "ip": "47.90.167.27",
+    "port": 9080,
     "type": "socks4",
     "level": "elite",
-    "country": "ID",
-    "ms": 15124
-  },
-  {
-    "ip": "129.205.244.185",
-    "port": 5678,
-    "type": "socks4",
-    "level": "elite",
-    "country": "BW",
-    "ms": 2802
-  },
-  {
-    "ip": "8.213.156.191",
-    "port": 8081,
-    "type": "socks4",
-    "level": "elite",
-    "country": "KR",
-    "ms": 4399
-  },
-  {
-    "ip": "8.211.194.78",
-    "port": 8443,
-    "type": "socks4",
-    "level": "elite",
-    "country": "GB",
-    "ms": 7325
-  },
-  {
-    "ip": "46.171.28.162",
-    "port": 59311,
-    "type": "socks4",
-    "level": "elite",
-    "country": "PL",
-    "ms": 7547
+    "country": "US",
+    "ms": 9262
   },
   {
     "ip": "199.58.185.9",
@@ -1493,39 +1573,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 1214
-  },
-  {
-    "ip": "120.55.49.231",
-    "port": 7777,
-    "type": "socks4",
-    "level": "elite",
-    "country": "CN",
-    "ms": 4501
-  },
-  {
-    "ip": "195.219.98.27",
-    "port": 5678,
-    "type": "socks4",
-    "level": "elite",
-    "country": "ES",
-    "ms": 6234
-  },
-  {
-    "ip": "184.170.248.5",
-    "port": 4145,
-    "type": "socks4",
-    "level": "elite",
-    "country": "US",
-    "ms": 14574
-  },
-  {
-    "ip": "141.94.195.25",
-    "port": 22563,
-    "type": "socks4",
-    "level": "elite",
-    "country": "FR",
-    "ms": 15802
+    "ms": 1488
   },
   {
     "ip": "184.178.172.17",
@@ -1533,23 +1581,39 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 19100
+    "ms": 1989
   },
   {
-    "ip": "200.125.44.242",
+    "ip": "120.55.49.231",
+    "port": 7777,
+    "type": "socks4",
+    "level": "elite",
+    "country": "CN",
+    "ms": 4533
+  },
+  {
+    "ip": "184.170.248.5",
     "port": 4145,
     "type": "socks4",
     "level": "elite",
-    "country": "UY",
-    "ms": 2362
+    "country": "US",
+    "ms": 518
   },
   {
-    "ip": "190.14.224.244",
-    "port": 3629,
+    "ip": "181.115.75.102",
+    "port": 5678,
     "type": "socks4",
     "level": "elite",
-    "country": "CO",
-    "ms": 16184
+    "country": "HN",
+    "ms": 7659
+  },
+  {
+    "ip": "195.219.98.27",
+    "port": 5678,
+    "type": "socks4",
+    "level": "elite",
+    "country": "ES",
+    "ms": 20709
   },
   {
     "ip": "184.181.217.213",
@@ -1557,23 +1621,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 999
-  },
-  {
-    "ip": "116.118.98.25",
-    "port": 5678,
-    "type": "socks4",
-    "level": "elite",
-    "country": "VN",
-    "ms": 5048
-  },
-  {
-    "ip": "116.118.98.26",
-    "port": 5678,
-    "type": "socks4",
-    "level": "elite",
-    "country": "VN",
-    "ms": 5264
+    "ms": 3503
   },
   {
     "ip": "8.212.165.164",
@@ -1581,23 +1629,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "PH",
-    "ms": 6457
-  },
-  {
-    "ip": "31.170.19.241",
-    "port": 4153,
-    "type": "socks4",
-    "level": "elite",
-    "country": "LV",
-    "ms": 18438
-  },
-  {
-    "ip": "184.185.2.12",
-    "port": 4145,
-    "type": "socks4",
-    "level": "elite",
-    "country": "US",
-    "ms": 3435
+    "ms": 6897
   },
   {
     "ip": "212.5.132.74",
@@ -1605,15 +1637,31 @@
     "type": "socks4",
     "level": "elite",
     "country": "BG",
-    "ms": 2586
+    "ms": 2397
   },
   {
-    "ip": "173.212.239.181",
-    "port": 54885,
-    "type": "socks5",
+    "ip": "223.205.186.163",
+    "port": 1080,
+    "type": "socks4",
     "level": "elite",
-    "country": "FR",
-    "ms": 20820
+    "country": "TH",
+    "ms": 4723
+  },
+  {
+    "ip": "184.185.2.12",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "US",
+    "ms": 5225
+  },
+  {
+    "ip": "41.242.69.196",
+    "port": 5678,
+    "type": "socks4",
+    "level": "elite",
+    "country": "NG",
+    "ms": 2157
   },
   {
     "ip": "184.181.217.206",
@@ -1621,7 +1669,23 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 11454
+    "ms": 1608
+  },
+  {
+    "ip": "185.139.56.133",
+    "port": 4145,
+    "type": "socks4",
+    "level": "elite",
+    "country": "GE",
+    "ms": 9032
+  },
+  {
+    "ip": "103.97.94.22",
+    "port": 4153,
+    "type": "socks4",
+    "level": "elite",
+    "country": "IN",
+    "ms": 1235
   },
   {
     "ip": "8.138.149.37",
@@ -1629,15 +1693,15 @@
     "type": "socks4",
     "level": "elite",
     "country": "CN",
-    "ms": 3451
+    "ms": 3489
   },
   {
-    "ip": "103.57.134.250",
-    "port": 45958,
+    "ip": "37.128.107.102",
+    "port": 4145,
     "type": "socks4",
     "level": "elite",
-    "country": "IN",
-    "ms": 20191
+    "country": "PL",
+    "ms": 4668
   },
   {
     "ip": "39.101.65.228",
@@ -1645,31 +1709,15 @@
     "type": "socks4",
     "level": "elite",
     "country": "CN",
-    "ms": 5923
+    "ms": 7695
   },
   {
-    "ip": "112.78.138.163",
-    "port": 5678,
-    "type": "socks4",
+    "ip": "95.213.154.54",
+    "port": 31337,
+    "type": "socks5",
     "level": "elite",
-    "country": "ID",
-    "ms": 21127
-  },
-  {
-    "ip": "103.127.23.10",
-    "port": 5678,
-    "type": "socks4",
-    "level": "elite",
-    "country": "IN",
-    "ms": 3562
-  },
-  {
-    "ip": "190.104.26.227",
-    "port": 33638,
-    "type": "socks4",
-    "level": "elite",
-    "country": "BO",
-    "ms": 4314
+    "country": "RU",
+    "ms": 21565
   },
   {
     "ip": "170.78.211.161",
@@ -1677,7 +1725,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "MX",
-    "ms": 1733
+    "ms": 1927
   },
   {
     "ip": "184.178.172.25",
@@ -1685,15 +1733,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "US",
-    "ms": 1915
-  },
-  {
-    "ip": "186.251.255.45",
-    "port": 31337,
-    "type": "socks4",
-    "level": "elite",
-    "country": "BR",
-    "ms": 2870
+    "ms": 1941
   },
   {
     "ip": "47.243.242.70",
@@ -1701,7 +1741,7 @@
     "type": "socks4",
     "level": "elite",
     "country": "HK",
-    "ms": 4402
+    "ms": 4444
   },
   {
     "ip": "47.122.56.158",
@@ -1709,6 +1749,6 @@
     "type": "socks4",
     "level": "elite",
     "country": "CN",
-    "ms": 6720
+    "ms": 4159
   }
 ]
