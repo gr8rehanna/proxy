@@ -1,5 +1,19 @@
 [
   {
+    "ip": "192.95.33.162",
+    "port": 55106,
+    "type": "socks5",
+    "level": "elite",
+    "country": "CA"
+  },
+  {
+    "ip": "37.18.73.60",
+    "port": 5566,
+    "type": "socks5",
+    "level": "elite",
+    "country": "RU"
+  },
+  {
     "ip": "205.209.113.242",
     "port": 1080,
     "type": "socks5",
@@ -14,18 +28,18 @@
     "country": "FR"
   },
   {
+    "ip": "134.199.159.23",
+    "port": 1080,
+    "type": "socks5",
+    "level": "elite",
+    "country": "AU"
+  },
+  {
     "ip": "51.75.126.150",
     "port": 6424,
     "type": "socks5",
     "level": "elite",
     "country": "FR"
-  },
-  {
-    "ip": "192.95.33.162",
-    "port": 38793,
-    "type": "socks5",
-    "level": "elite",
-    "country": "CA"
   },
   {
     "ip": "5.75.199.188",
@@ -40,55 +54,6 @@
     "type": "socks5",
     "level": "elite",
     "country": "HK"
-  },
-  {
-    "ip": "57.129.81.201",
-    "port": 1080,
-    "type": "socks5",
-    "level": "elite",
-    "country": "DE"
-  },
-  {
-    "ip": "37.18.73.60",
-    "port": 5566,
-    "type": "socks5",
-    "level": "elite",
-    "country": "RU"
-  },
-  {
-    "ip": "134.199.159.23",
-    "port": 1080,
-    "type": "socks5",
-    "level": "elite",
-    "country": "AU"
-  },
-  {
-    "ip": "145.239.254.55",
-    "port": 11001,
-    "type": "socks5",
-    "level": "elite",
-    "country": "FR"
-  },
-  {
-    "ip": "185.93.89.156",
-    "port": 44452,
-    "type": "socks4",
-    "level": "elite",
-    "country": "GB"
-  },
-  {
-    "ip": "136.214.123.98",
-    "port": 26395,
-    "type": "socks4",
-    "level": "elite",
-    "country": "US"
-  },
-  {
-    "ip": "47.186.54.244",
-    "port": 3389,
-    "type": "socks4",
-    "level": "elite",
-    "country": "US"
   },
   {
     "ip": "105.214.28.131",
@@ -5731,6 +5696,13 @@
     "type": "socks4",
     "level": "transparent",
     "country": ""
+  },
+  {
+    "ip": "57.129.81.201",
+    "port": 1080,
+    "type": "socks4",
+    "level": "transparent",
+    "country": "DE"
   },
   {
     "ip": "78.128.124.108",
